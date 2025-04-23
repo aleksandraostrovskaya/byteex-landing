@@ -1,0 +1,15 @@
+.heroSection {
+  text-align: center;
+}
+
+.infoBanner {
+  background-color: #F9F0E5;
+  color: #565656;
+  font-size: 11px;
+  padding: 14px 0;
+  white-space: nowrap;
+}
+
+.infoBanner span:nth-of-type(1) {
+  text-transform: uppercase;
+}
