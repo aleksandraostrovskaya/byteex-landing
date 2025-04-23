@@ -1,6 +1,8 @@
 :root {
   --background: #ffffff;
-  --foreground: #676869;
+  --color-text-muted: #676869;
+  --color-text-primary: #01005b;
+  --white: #ffffff;
 }
 
 :root {
@@ -61,7 +63,7 @@ body {
 }
 
 body {
-  color: var(--foreground);
+  color: var(--color-text-muted);
   background: var(--background);
   font-family: var(--font-sofia-regular);
   -webkit-font-smoothing: antialiased;

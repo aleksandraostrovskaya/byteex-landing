@@ -1,0 +1,51 @@
+.reviewBlock {
+  padding: 16px 18px 16px 21px;
+  border-radius: 8px;
+  max-width: 416px;
+  box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.08);
+}
+
+.topRow {
+  display: flex;
+  gap: 14px;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.avatar {
+  border-radius: 50%;
+}
+
+.name {
+  font-size: 15px;
+  line-height: 153%;
+  letter-spacing: 0.03em;
+}
+
+.stars {
+  color: gold;
+  font-size: 16px;
+}
+
+.tagline {
+  font-size: 11px;
+  line-height: 182%;
+  letter-spacing: 0.02em;
+  color: #828282;
+}
+
+.reviewText {
+  font-size: 12px;
+  line-height: 192%;
+  letter-spacing: 0.04em;
+}
+
+.stars {
+  display: flex;
+  gap: 2px;
+}
+
+.star {
+  color: #ffb801;
+  font-size: 16px;
+}
