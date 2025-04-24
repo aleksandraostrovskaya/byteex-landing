@@ -80,3 +80,39 @@ a {
   color: inherit;
   text-decoration: none;
 }
+
+.swiper-wrapper {
+  align-items: center;
+}
+
+.swiper-pagination-bullet {
+  background-color: #c4c4c4 !important;
+  margin-bottom: -12px !important;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: #000 !important;
+}
+
+.swiper {
+  padding-bottom: 20px !important;
+}
+
+.swiper-button-prev {
+  color: #555656 !important;
+  font-size: 10px !important;
+  left: -50px;
+}
+
+.swiper-button-next {
+  color: #555656 !important;
+  font-size: 10px !important;
+}
+
+.swiper-button-prev:after {
+  font-size: 25px !important;
+}
+
+.swiper-button-next:after {
+  font-size: 25px !important;
+}
