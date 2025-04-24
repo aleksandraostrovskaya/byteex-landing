@@ -98,6 +98,12 @@
   );
 }
 
+.testimonialContainer {
+  margin-bottom: -150px;
+  z-index: 2;
+  position: relative;
+}
+
 .imageWrapper {
   position: relative;
   z-index: 0;
