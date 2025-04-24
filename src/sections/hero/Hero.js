@@ -64,7 +64,7 @@ export default function Hero({ data }) {
       <div className={styles.logoContainer}>
         <Link href='/'>
           <Image
-            src='/images/Logo.svg'
+            src='/images/logo.svg'
             alt={'Logo'}
             width={200}
             height={35}
